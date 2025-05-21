@@ -12,6 +12,9 @@ A basic Unity project simulating a social media-style post using dummy data. Cre
 
 - Like button changes appearance and optionally updates like count
 
+> On GitHub, this will render the LeanTween part as:  
+> _"...Optional UI animations are implemented using [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595), a lightweight and powerful tweening engine for Unity."_
+
 ## 📁 Data Format
 
 Supports hardcoded values or local JSON loading. Example JSON structure:
@@ -22,4 +25,5 @@ Supports hardcoded values or local JSON loading. Example JSON structure:
   "content": "This is my first post!",
   "likes": 10
 }
+
 
